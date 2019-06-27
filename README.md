@@ -3,12 +3,15 @@
  
 > MERN stack is a set of JavaScript based technologies used in developing web applications. 
 
-Mongo DB is a database system
+MERN includes four open-source components: 
 
-Express JS is a back-end web framework
+These components provide an end-to-end framework for developers to work in.  
 
-React is a JavaScript front-end library for building user interfaces
+- Mongo DB is a cross-platform document database
 
-Node JS is a back-end runtime environment
+- Express JS is a back-end web framework
 
+- React is a JavaScript front-end library for building user interfaces
 
+- Node JS is a back-end runtime environment
+ 
