@@ -3,7 +3,7 @@
  
 > MERN stack is a set of JavaScript based technologies used in developing web applications. 
 
-MERN includes four open-source components: 
+MERN includes four open-source components.
 
 These components provide an end-to-end framework for developers to work in.  
 
